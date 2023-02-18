@@ -1,4 +1,4 @@
-# Extract_Text_from_Image
+# Phoenix(Text extractor from Image)
 
 This is a AI/ML Program which extracts Text from Image using OCR. This program is Developed with CPython. 
 
