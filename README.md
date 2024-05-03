@@ -1,4 +1,4 @@
-# Phoenix(Text extractor from Image)
+# Phoenix(Text extractor from Image) [![Watch the Video](https://img.shields.io/badge/Watch-YouTube-red.svg?logo=YouTube&style=for-the-badge)](https://youtu.be/s7YvP_iksi0?feature=shared)
 
 This is a AI/ML Program which extracts Text from Image using OCR. This program is Developed with CPython. 
 
